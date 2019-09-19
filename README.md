@@ -46,8 +46,6 @@ The connector4java enables easy and convenient use of OSIAM authentication and u
 
 It provides a easy to use API, a step by step documentation how to set up a test system and also offers different “ready to go” examples that should enable the  understanding of OSIAM and the connector4java in a short time.
 
-For more information on OSIAM have a look into the [OSIAM server repository's README.md](https://github.com/osiam/server/) or visit OSIAM's homepage at [www.osiam.org](https://www.osiam.org).
-
 #project structure
 
 This project is build with maven, the module structure is
@@ -58,6 +56,3 @@ This project is build with maven, the module structure is
 
 * Java 1.7
 
-# Issue tracker for the Connector
-
-Issues, bugs and feature requests can be reported by using [OSIAM's issue tracker](https://jira.osiam.org/browse/BT).
